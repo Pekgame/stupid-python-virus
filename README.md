@@ -1,2 +1,3 @@
-# stupid-python-virus
+# Stupid Python Virus
 A stupid virus made in Python that just duplicates itself over and over...
+It even makes me got a Blue Screen.
